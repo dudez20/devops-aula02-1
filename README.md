@@ -2,5 +2,6 @@
 Aula 02 de DevOps
 
 George R. Martin
-J.K. Rowling
+Harry Potter
 Silvio Santos
+Artic Monkeys
